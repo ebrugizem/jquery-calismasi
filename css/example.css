@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    }
+    #dv1{
+        display: flex ;
+        justify-content: space-between;
+    }
+    #dv2{
+        display: flex ;
+        justify-content: space-between;
+    }
+    .cities {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 20px;  
+    padding-top: 50px;  
+    width:350px ;
+    height: auto; 
+    float:left;
+    border: 3px solid palevioletred;
+    border-radius: 5px;
+    }
+    #eklebtn{
+        overflow: auto;
+     }
+    
+    #frm{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;   
+    margin-top: 50px;        
+    width:350px ;
+    height: auto; 
+    }
+
+    .lgn{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;   
+    margin-top: 50px;        
+    width:450px ;
+    height: 300px;
+    clear:left; 
+    border: 3px solid skyblue;
+    border-radius: 5px;
+    }
+
+    #lgnBtn{
+        overflow: auto;
+    }
+   
