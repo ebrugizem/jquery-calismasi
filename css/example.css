@@ -50,3 +50,6 @@ body {
         overflow: auto;
     }
    
+    #logOut{
+        float:right;
+    }
